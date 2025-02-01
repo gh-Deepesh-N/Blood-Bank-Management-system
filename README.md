@@ -37,4 +37,6 @@ The **Blood Bank Management System** is designed to streamline blood donation an
 ##Frontend Screenshorts
 
 ![Alt text](![Screenshot 2025-02-01 084214](https://github.com/user-attachments/assets/56a62212-1f11-4e18-87b6-b3997a558eef)
-)
+![Alt text](![Screenshot 2025-02-01 083924](https://github.com/user-attachments/assets/e8e1e917-6c76-47f7-bb18-494e8c3531df)
+
+
