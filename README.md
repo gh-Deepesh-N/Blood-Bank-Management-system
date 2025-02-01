@@ -40,3 +40,7 @@ The **Blood Bank Management System** is designed to streamline blood donation an
 ![Alt text](![Screenshot 2025-02-01 083924](https://github.com/user-attachments/assets/e8e1e917-6c76-47f7-bb18-494e8c3531df)
 
 
+## Contributors
+
+- [Joel Rufus J](https://github.com/joelrufus) (RA2211026010231) - Frontend Development & UI Design Development
+- [Deepesh N](https://github.com/deepeshn) (RA2211026010254) -  Database Design & Backend Development
