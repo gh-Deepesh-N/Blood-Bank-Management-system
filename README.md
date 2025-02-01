@@ -15,10 +15,29 @@ cd blood-bank-management
 python blood_bank_system.py
 
 
-#Login page 
-![image](https://github.com/user-attachments/assets/ec244924-2f00-466f-a91f-5b39c5ab1a85)
+## Usage
 
-#donor management interface
-![Uploading image.png…]()
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/ec244924-2f00-466f-a91f-5b39c5ab1a85)
+*Fig 7.2.1 login page*
+
+### Donor Management Interface
+![Donor Management](https://github.com/user-attachments/assets/placeholder-for-image.png)
+*Fig 7.3 Donor Management Interface*
+
+```python
+# Connect to the database
+def connect_db():
+    # Establish connection with PostgreSQL
+    pass
+
+# Add a new blood donor
+insert_blood_donor(name="John Doe", age=30, blood_group="O+", gender="M", tree=tree_view)
+
+# Delete an existing donor
+delete_blood_donor(bd_id=101, tree=tree_view)
+
+# Load all donor records
+load_donors(tree=tree_view)
 
 
